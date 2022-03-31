@@ -4,3 +4,5 @@
 {"from":"samuelpeter","to":"jaybee","value":1000,"data":""}
 {"from":"samuelpeter","to":"owoez","value":50,"data":""}
 {"from":"owoez","to":"owoez","value":100,"data":"reward"}
+{"from":"samuelpeter","to":"owoez","value":1,"data":""}
+{"from":"owoez","to":"owoez","value":100,"data":"reward"}
