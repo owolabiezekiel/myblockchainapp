@@ -1,0 +1,7 @@
+{
+  "genesis_time": "2022-03-31T00:00:00.000000000Z",
+  "chain_id": "my-blockchain-ledger",
+  "balances": {
+    "owoez": 1000000
+  }
+}
